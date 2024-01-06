@@ -4,15 +4,15 @@
 
 <p align="left">
   <img align=top width="220" src="./Images/developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Kirti+Rawal;B.E.+BioMedical Engineering+%7C+;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
- <img align=bottom src="https://komarev.com/ghpvc/?username=giocoal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" style="margin-top:0;" />
+  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Kirti+Rawal;B.E.+BioMedical+Engineering+%7C+;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
+ <img align=bottom src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="kirtirawalview" style="margin-top:0;" />
 </p>
 
 <div align="left">
   <img align=top width="200" src="./Images/developer1.gif" />  
   <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Kirti+Rawal;+Data+Science+%7C+Developer;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
   <br /> 
-  <img align=bottom src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="giocoalview" style="margin-top:0;" />
+  <img align=bottom src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="kirtirawalview" style="margin-top:0;" />
 </div>
 
 --> 
@@ -31,7 +31,7 @@
 <div style="display:flex; flex-direction:row; align-items:center;">
   <p><img align="left" width="25%" height="25%" src="./Images/developer1.gif" alt="developergif" style="margin-right: 20px;"></p>
   <div style="display:flex; flex-direction:column; margin-bottom: 100px;">
-    <p><img src="https://readme-typing-svg.demolab.com?font=Lato&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=400&height=75&repeat=false&lines=Giorgio+Carbone;M.Sc.+Data+Science+%7C+B.Sc.+Chemistry;AI+%7C+Computer+Vision+%7C+Generative+AI" alt="Typing Animation" hspace="10" height="auto"></p>
+    <p><img src="https://readme-typing-svg.demolab.com?font=Lato&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=400&height=75&repeat=false&lines=Kirti+Rawal;Data+Science+%7C+B.E.+BioMedical+Engineering;AI+%7C+Computer+Vision+%7C+Generative+AI" alt="Typing Animation" hspace="10" height="auto"></p>
     <div style="display:flex; align-items:center;">
       <img src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter" style="width:100px;" hspace="10">
     </div>
@@ -56,7 +56,7 @@
 <h4 align="center">My Portfolio Website and My Resume</h4>
 <div align="center">
 <a href="https://kirtirawal.github.io/minimal-portfolio/" target="blank"><img align="center" src="./Images/primaversione1Rounded.png" alt="kirtirawalPortfolio" height="30" width="30" /></a>
-<a href="https://kirtirawal.github.io/minimal-portfolio/pdf/kirtirawal.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="giorgiocarboneCV" height="30" width="30" /></a>
+<a href="https://kirtirawal.github.io/minimal-portfolio/pdf/kirtirawal.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="kirtirawalCV" height="30" width="30" /></a>
 </div>
 
 <!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
@@ -64,10 +64,10 @@
 <h4 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h4>
 <div align="center">
 <a href="https://www.linkedin.com/in/kirtirawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtirawal" height="20" width="20,7" /></a> 
-<a href="mailto:kirti.rawal@outlook.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="giorgiocarbone" height="30" width="40" /></a>
-<a href="https://github.com/kirtirawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="giorgiocarbone" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/kirtirawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giorgiocarbone" height="20" width="26,7" /></a>
-<a href="https://stackoverflow.com/users/11906862/dell-rawal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="giorgiocarbone" height="30" width="30" /></a>
+<a href="mailto:kirti.rawal@outlook.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="kirtirawal" height="30" width="40" /></a>
+<a href="https://github.com/kirtirawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kirtirawal" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kirtirawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kirtirawal" height="20" width="26,7" /></a>
+<a href="https://stackoverflow.com/users/11906862/dell-rawal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="kirtirawal" height="30" width="30" /></a>
 </div>
 
 <h4 align="center">Languages &nbsp<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4>
@@ -88,10 +88,10 @@
 <br/> 
 
 <div align="center">
-<a align=top href="https://github.com/giocoal">
-    <img align=top src="https://github-stats-alpha.vercel.app/api?username=giocoal&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
+<a align=top href="https://github.com/kirtirawal">
+    <img align=top src="https://github-stats-alpha.vercel.app/api?username=kirtirawal&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
 </a>
-<a align=top href="https://github.com/giocoal">
+<a align=top href="https://github.com/kirtirawal">
     <img align=top alt="Kirti Rawal's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kirtirawal&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=java,scss,javascript,tex,ruby,shell,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
 </div>
 
@@ -170,17 +170,17 @@
 
 <div align="center">
 <a align=top href="https://github.com/kirtirawal">
-    <img align=top src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giocoal&theme=github_dark" height="192px">
+    <img align=top src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirtirawal&theme=github_dark" height="192px">
 </a>
 <br>
 <a align=top href="https://github.com/kirtirawal">
-    <img align=top alt="giocoal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giocoal&theme=github_dark" height="192px"/></a>  
-<a align=top href="https://github.com/giocoal">
-    <img align=top alt="giocoal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giocoal&theme=github_dark" height="192px"/></a>
+    <img align=top alt="kirtirawal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirtirawal&theme=github_dark" height="192px"/></a>  
+<a align=top href="https://github.com/kirtirawal">
+    <img align=top alt="kirtirawal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirtirawal&theme=github_dark" height="192px"/></a>
 </br>
 <b>Currently Coding & Listening to:</b>
                                 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&cover_image=false&theme=default&show_offline=false&background_color=22272e&bar_color=37bbf5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=giocoal&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kirtirawal&cover_image=false&theme=default&show_offline=false&background_color=22272e&bar_color=37bbf5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kirtirawal&redirect=true)
 </div>                             
 
 </details>                                
