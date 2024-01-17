@@ -4,7 +4,7 @@
 
 <p align="left">
   <img align=top width="220" src="./Images/developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Kirti+Rawal;B.E.+BioMedical+Engineering+%7C+;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
+  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Kirti+Rawal;B.E.+BioMedical+Engineering+;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
  <img align=bottom src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="kirtirawalview" style="margin-top:0;" />
 </p>
 
@@ -29,7 +29,8 @@
 </div> -->
 
 <div style="display:flex; flex-direction:row; align-items:center;">
-  <p><img align="left" width="25%" height="25%" src="./Images/developer1.gif" alt="developergif" style="margin-right: 20px;"></p>
+  <
+p><img align="left" width="25%" height="25%" src="./Images/developer1.gif" alt="developergif" style="margin-right: 20px;"></p>
   <div style="display:flex; flex-direction:column; margin-bottom: 100px;">
     <p><img src="https://readme-typing-svg.demolab.com?font=Lato&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=400&height=75&repeat=false&lines=Kirti+Rawal;Data+Science+%7C+B.E.+BioMedical+Engineering;AI+%7C+Computer+Vision+%7C+Generative+AI" alt="Typing Animation" hspace="10" height="auto"></p>
     <div style="display:flex; align-items:center;">
