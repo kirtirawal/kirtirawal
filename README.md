@@ -4,13 +4,13 @@
 
 <p align="left">
   <img align=top width="220" src="./Images/developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Kirti+Rawal;B.E.+BioMedical+Engineering+7C;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
+  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Kirti+Rawal;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
  <img align=bottom src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="kirtirawalview" style="margin-top:0;" />
 </p>
 
 <div align="left">
   <img align=top width="200" src="./Images/developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Kirti+Rawal;+Data+Science+%7C+Developer;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
+  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Kirti+Rawal;+Data+Science+%7C+Developer;AI+%7C+DevOps" alt="Typing SVG" style="margin-top:0;" /> 
   <br /> 
   <img align=bottom src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="kirtirawalview" style="margin-top:0;" />
 </div>
