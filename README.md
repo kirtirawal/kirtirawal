@@ -28,57 +28,41 @@
   </div>
 </div> -->
 
-<div style="display:flex; flex-direction:row; align-items:center;">
-  <
-p><img align="left" width="25%" height="25%" src="./Images/developer1.gif" alt="developergif" style="margin-right: 20px;"></p>
-  <div style="display:flex; flex-direction:column; margin-bottom: 100px;">
-    <p><img src="https://readme-typing-svg.demolab.com?font=Lato&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=400&height=75&repeat=false&lines=Kirti+Rawal;Data+Science;AI+%7C+DevOps" alt="Typing Animation" hspace="10" height="auto"></p>
-    <div style="display:flex; align-items:center;">
-      <img src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter" style="width:100px;" hspace="10">
-    </div>
+<div align="center" >
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/kirtirawal/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:kirti.rawal@outlook.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/kirtirawal">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+    </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=manimozaffar&style=for-the-badge&color=blueviolet" alt="my profile views"/>
 </div>
+<br />
 
-<br clear="left"/>
+<h2> About Me:</h2>
+<br>
+Self-motivated 2 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks. Believer of "Programs must be written for people to read, and only incidentally for machines to execute|, and "Eliminate, Simplify, Automate And Delegate"<br>
 
----
+## Open Source Projects
 
-<!-- ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
+I am working or I have contributed on some Open Sourceand Freelance  Project, most are Work In Progress, but anyway it was impossible to pin them all haha
 
-<div align="left" style="margin-top:20px;">
-
-* 📖 **Software Developer**.
-* 📍 I'm from India. 
-* 💡 Open to collaborating on projects and innovative ideas. 
-
-</div>
-                 
-
-<h4 align="center">My Portfolio Website and My Resume</h4>
-<div align="center">
-<a href="https://kirtirawal.github.io/minimal-portfolio/" target="blank"><img align="center" src="./Images/primaversione1Rounded.png" alt="kirtirawalPortfolio" height="30" width="30" /></a>
-<a href="https://kirtirawal.github.io/minimal-portfolio/pdf/kirtirawal.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="kirtirawalCV" height="30" width="30" /></a>
-</div>
-
-<!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h4 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></h4>
-<div align="center">
-<a href="https://www.linkedin.com/in/kirtirawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtirawal" height="20" width="20,7" /></a> 
-<a href="mailto:kirti.rawal@outlook.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="kirtirawal" height="30" width="40" /></a>
-<a href="https://github.com/kirtirawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kirtirawal" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/kirtirawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kirtirawal" height="20" width="26,7" /></a>
-<a href="https://stackoverflow.com/users/11906862/dell-rawal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="kirtirawal" height="30" width="30" /></a>
-</div>
 
 <h4 align="center">Languages &nbsp<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4>
 <div align="center">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="r"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>         <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash"></code>     
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="terminal"></code>
+
 </div>
 
 <br/> 
