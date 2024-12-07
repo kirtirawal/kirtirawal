@@ -1,33 +1,5 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<!--
-
-<p align="left">
-  <img align=top width="220" src="./Images/developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Kirti+Rawal;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" style="margin-top:0;" /> 
- <img align=bottom src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="kirtirawalview" style="margin-top:0;" />
-</p>
-
-<div align="left">
-  <img align=top width="200" src="./Images/developer1.gif" />  
-  <img align=top src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=true&lines=Kirti+Rawal;+Data+Science+%7C+Developer;AI+%7C+DevOps" alt="Typing SVG" style="margin-top:0;" /> 
-  <br /> 
-  <img align=bottom src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="kirtirawalview" style="margin-top:0;" />
-</div>
-
---> 
-
-
-<!-- <div style="display:flex; flex-direction:row; align-items:center;">
-  <img width="200" src="./Images/developer1.gif" alt="developergif">
-  <div style="display:flex; flex-direction:column; margin-left:20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&weight=500&duration=2000&pause=100&color=36BCF7FF&multiline=true&width=500&height=80&repeat=false&lines=Kirti+Rawal;Data+Science+%7C;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing Animation">
-    <div style="display:flex; align-items:center;">
-      <img src="https://komarev.com/ghpvc/?username=kirtirawal&label=Visitors&style=flat&color=0e75b6" alt="Visitors Counter" style="width:100px;">
-    </div>
-  </div>
-</div> -->
-
 <div align="center" >
   <div id="badges">
     <a href="https://www.linkedin.com/in/kirtirawal/">
@@ -46,11 +18,11 @@
 
 <h2> About Me:</h2>
 <br>
-Self-motivated 2 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks. Believer of "Programs must be written for people to read, and only incidentally for machines to execute|, and "Eliminate, Simplify, Automate And Delegate"<br>
+Self-motivated 2 years experienced software engineer with a strong interest in contributing to open source projects. Eager to explore unknown fields, and develop useful products, and frameworks. Believer of "Programs must be written for people to read, and only incidentally for machines to execute|, and "Eliminate, Simplify, Automate And Delegate"<br>
 
 ## Open Source Projects
 
-I am working or I have contributed on some Open Sourceand Freelance  Project, most are Work In Progress, but anyway it was impossible to pin them all haha
+I am working or have contributed to some Open Source and Freelance  Projects, most are Work In Progress, but anyway, it was impossible to pin them all haha
 
 
 <h4 align="center">Languages &nbsp<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4>
